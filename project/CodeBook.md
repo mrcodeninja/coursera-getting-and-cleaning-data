@@ -1,18 +1,20 @@
 # Human Activity Recognition Using Smartphones
 
 <dl>
+    <dt>Subject</dt>
+    <dd>Unique identifier for the subject being observed.</dd>
 
-  <dt>Subject</dt>
-  <dd>Unique identifier for the subject being observed.</dd>
-
-  <dt>Activity</dt>
-  <dd>Activities performed by a subject.</dd>
+    <dt>Activity
+        <dt>Activities performed by a subject.</dt>
+        <dd>
+            <ol>
+                <li>WALKING</li>
+                <li>WALKING_UPSTAIRS</li>
+                <li>WALKING_DOWNSTAIRS</li>
+                <li>SITTING</li>
+                <li>STANDING</li>
+                <li>LAYING</li>
+            </ol>
+        </dd>
+    </dt>
 </dl>
-
-```
-Subjet
-    Unique identifier for the subject being observed.
-    
-Activity
-    Activities performed by a subject.
-```
