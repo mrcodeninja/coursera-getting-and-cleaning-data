@@ -7,12 +7,12 @@
 
   <dt>Activity</dt>
   <dd>Activities performed by a subject.</dd>
+</dl>
 
-`
+```
 Subjet
     Unique identifier for the subject being observed.
     
 Activity
     Activities performed by a subject.
-`
-</dl>
+```
