@@ -13,9 +13,9 @@ run_analysis()
 # Output
 1. [HAR-dataset.txt] (https://github.com/mrcodeninja/coursera-getting-and-cleaning-data/blob/master/project/HAR-dataset.txt)
 
-...[Code Book] (https://github.com/mrcodeninja/coursera-getting-and-cleaning-data/blob/master/project/CodeBook.md)
-...Tidy data set created using the [Human Activity Recognition Using Smartphones Data Set] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) from the [UCI Machine Learning Repository] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+   [Code Book] (https://github.com/mrcodeninja/coursera-getting-and-cleaning-data/blob/master/project/CodeBook.md)
+   Tidy data set created using the [Human Activity Recognition Using Smartphones Data Set] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) from the [UCI Machine Learning Repository] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 2. [HAR-summary.txt] (https://github.com/mrcodeninja/coursera-getting-and-cleaning-data/blob/master/project/HAR-summary.txt)
 
-...Aggregated data set containing the mean values of each variable for each activity and each subject.
+   Aggregated data set containing the mean values of each variable for each activity and each subject.
